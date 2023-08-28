@@ -6,9 +6,7 @@
 
 ## git preview
 
-https://ridonev1.github.io/pokedex-app/
-
-https://pokedex-app-rouge.vercel.app/
+pokedex-app-v2-puce.vercel.app
 
 ## web preview
 
