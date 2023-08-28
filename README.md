@@ -6,7 +6,7 @@
 
 ## git preview
 
-pokedex-app-v2-puce.vercel.app
+[pokedex-app-v2-puce.vercel.app](https://pokedex-app-v2-puce.vercel.app/)
 
 ## web preview
 
